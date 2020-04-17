@@ -349,26 +349,397 @@ BundleTarget game:levels/nam_mp_007sr/level-00.fbrb
 BundleTarget game:levels/nam_common/level-00.fbrb
 
 BundleSource game:levels/air_mp_sp_001cq/level-00.fbrb
+BundleTarget package:mods/level-00.fbrb
 BundleTarget game:levels/air_mp_sp_001cq/level-00.fbrb
 BundleTarget game:levels/mp_common/level-00.fbrb
 BundleTarget game:levels/sp_common/level-00.fbrb
 BundleTarget game:levels/nam_common/level-00.fbrb
 
 BundleSource game:levels/air_mp_sp_004cq/level-00.fbrb
+BundleTarget package:mods/level-00.fbrb
 BundleTarget game:levels/air_mp_sp_004cq/level-00.fbrb
 BundleTarget game:levels/mp_common/level-00.fbrb
 BundleTarget game:levels/sp_common/level-00.fbrb
 
 BundleSource game:levels/air_mp_004/level-00.fbrb
+BundleTarget package:mods/level-00.fbrb
 BundleTarget game:levels/air_mp_004/level-00.fbrb
 BundleTarget game:levels/mp_common/level-00.fbrb
 BundleTarget game:levels/sp_common/level-00.fbrb
 
 BundleSource game:levels/air_mp_006/level-00.fbrb
+BundleTarget package:mods/level-00.fbrb
 BundleTarget game:levels/air_mp_006/level-00.fbrb
 BundleTarget game:levels/mp_common/level-00.fbrb
 BundleTarget game:levels/sp_common/level-00.fbrb
 
 BundleSource game:levels/mp_napimap_001/level-00.fbrb
+BundleTarget package:mods/level-00.fbrb
 BundleTarget game:levels/mp_napimap_001/level-00.fbrb
 BundleTarget game:levels/mp_common/level-00.fbrb
+
+BundleSource game:levels/mp_001/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_001/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_001sr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_001sr/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_001sdm/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_001sdm/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_002/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_002/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_002/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_002/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_002sr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_002sr/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_003/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_003/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_003sr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_003sr/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_004/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_004/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_004sdm/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_004sdm/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_005/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_005/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_005gr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_005gr/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_005sr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_005sr/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_006/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_006/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_006cq/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_006cq/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_006sdm/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_006sdm/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_007/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_007/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_007gr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_007gr/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_007sdm/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_007sdm/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_008/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_008/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_008cq/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_008cq/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_008sdm/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_008sdm/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_009cq/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_009cq/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_009sr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_009sr/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_009sdm/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_009sdm/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_009gr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_009gr/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_012cq/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_012cq/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_012gr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_012gr/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_012sr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_012sr/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_sp_001cq/terrain-00.fbrb
+BundleTarget game:levels/mp_sp_001cq/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+BundleTarget game:levels/sp_common/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_sp_002gr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_sp_002gr/terrain-00.fbrb
+BundleTarget game:levels/mp2_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_sp_002sr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_sp_002sr/terrain-00.fbrb
+BundleTarget game:levels/mp2_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_sp_002sdm/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_sp_002sdm/terrain-00.fbrb
+BundleTarget game:levels/mp2_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_sp_003gr/terrain-00.fbrb
+BundleTarget game:levels/mp_sp_003gr/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+BundleTarget game:levels/sp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_sp_004cq/terrain-00.fbrb
+BundleTarget game:levels/mp_sp_004cq/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+BundleTarget game:levels/sp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_sp_005cq/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_sp_005cq/terrain-00.fbrb
+BundleTarget game:levels/mp2_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_sp_005sdm/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_sp_005sdm/terrain-00.fbrb
+BundleTarget game:levels/mp2_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_sp_006cq/terrain-00.fbrb
+BundleTarget game:levels/mp_sp_006cq/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+BundleTarget game:levels/sp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_sp_008/terrain-00.fbrb
+BundleTarget game:levels/mp_sp_008/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+BundleTarget game:levels/sp_common/terrain-00.fbrb
+
+BundleSource game:levels/bc1_oasis_cq/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/bc1_oasis_cq/terrain-00.fbrb
+BundleTarget game:levels/mp2_common/terrain-00.fbrb
+
+BundleSource game:levels/bc1_oasis_gr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/bc1_oasis_gr/terrain-00.fbrb
+BundleTarget game:levels/mp2_common/terrain-00.fbrb
+
+BundleSource game:levels/bc1_oasis_sdm/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/bc1_oasis_sdm/terrain-00.fbrb
+BundleTarget game:levels/mp2_common/terrain-00.fbrb
+
+BundleSource game:levels/bc1_oasis_sr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/bc1_oasis_sr/terrain-00.fbrb
+BundleTarget game:levels/mp2_common/terrain-00.fbrb
+
+BundleSource game:levels/bc1_harvest_day_cq/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/bc1_harvest_day_cq/terrain-00.fbrb
+BundleTarget game:levels/mp2_common/terrain-00.fbrb
+
+BundleSource game:levels/bc1_harvest_day_gr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/bc1_harvest_day_gr/terrain-00.fbrb
+BundleTarget game:levels/mp2_common/terrain-00.fbrb
+
+BundleSource game:levels/bc1_harvest_day_sdm/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/bc1_harvest_day_sdm/terrain-00.fbrb
+BundleTarget game:levels/mp2_common/terrain-00.fbrb
+
+BundleSource game:levels/bc1_harvest_day_sr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/bc1_harvest_day_sr/terrain-00.fbrb
+BundleTarget game:levels/mp2_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_002r/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_002r/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_002cq/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_002cq/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_002sdm/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_002sdm/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_002sr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_002sr/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_003r/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_003r/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_003cq/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_003cq/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_003sdm/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_003sdm/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_003sr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_003sr/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_005r/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_005r/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_005cq/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_005cq/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_005sdm/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_005sdm/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_005sr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_005sr/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_006r/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_006r/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_006cq/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_006cq/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_006sdm/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_006sdm/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_006sr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_006sr/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_007r/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_007r/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_007cq/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_007cq/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_007sdm/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_007sdm/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/nam_mp_007sr/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/nam_mp_007sr/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/air_mp_sp_001cq/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/air_mp_sp_001cq/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+BundleTarget game:levels/sp_common/terrain-00.fbrb
+BundleTarget game:levels/nam_common/terrain-00.fbrb
+
+BundleSource game:levels/air_mp_sp_004cq/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/air_mp_sp_004cq/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+BundleTarget game:levels/sp_common/terrain-00.fbrb
+
+BundleSource game:levels/air_mp_004/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/air_mp_004/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+BundleTarget game:levels/sp_common/terrain-00.fbrb
+
+BundleSource game:levels/air_mp_006/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/air_mp_006/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
+BundleTarget game:levels/sp_common/terrain-00.fbrb
+
+BundleSource game:levels/mp_napimap_001/terrain-00.fbrb
+BundleTarget package:mods/terrain-00.fbrb
+BundleTarget game:levels/mp_napimap_001/terrain-00.fbrb
+BundleTarget game:levels/mp_common/terrain-00.fbrb
